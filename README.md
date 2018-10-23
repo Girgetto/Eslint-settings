@@ -1,13 +1,13 @@
 # Eslint-settings
 
-**1- Install the VS Code ESLint extension **
+**1- Install the VS Code ESLint extension**
 
 You can install by download it [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
    or install it directly in your VS code 
 
    ![VS code](https://media.giphy.com/media/cJk2v5vzX8YHzoo4n8/giphy.gif)
 
-**2- Clone this repo. **
+**2- Clone this repo.**
 
 ```
 git clone https://github.com/Girgetto/Eslint-settings.git eslint-settings
