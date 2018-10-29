@@ -27,7 +27,7 @@ In eslint.option and in eslint.node_path you need to insert the correct director
     "eslint.nodePath": "/Users/{yourName}/{folder where Eslint-settings is been cloned}/eslint-settings/node_modules",
 
 ```
-  ![VS code](https://media.giphy.com/media/1r91ZwHn2WQC0SQ9cr/giphy.gif =100x20)
+  ![VS code](https://media.giphy.com/media/1r91ZwHn2WQC0SQ9cr/giphy.gif)
 
   
 We are setting the ESLint extension in our VS code with the path of node_modules and the path of eslintrc.json that we have downloaded before
