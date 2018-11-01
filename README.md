@@ -12,14 +12,14 @@ Not having coding conventions is also a barrier to attracting contributions, and
 
 Besides checking style, linters are also excellent tools for finding certain classes of bugs 🐛, such as those related to variable scope. Assignment to undeclared variables (these leak into the global scope, contaminating it and possibly causing very difficult to find bugs) and use of undefined variables are examples of errors that are detectable at lint time.
 
-
+ESlint could be initialized in every new project or you can set the Visual code ESlint extension!
 
 **1- Install the VS Code ESLint extension**
 
 You can install by download it [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
    or install it directly in your VS code 
 
-   ![VS code](https://media.giphy.com/media/cJk2v5vzX8YHzoo4n8/giphy.gif)
+   ![VS code](https://media.giphy.com/media/5hgPpBVk002Lvoxj8m/giphy.gif)
 
 **2- Clone this repo.**
 
@@ -42,7 +42,13 @@ In eslint.option and in eslint.node_path you need to insert the correct director
     "editor.tabSize": 2,
 
 ```
-  ![VS code](https://media.giphy.com/media/1r91ZwHn2WQC0SQ9cr/giphy.gif)
 
-  
 We are setting the ESLint extension in our VS code with the path of node_modules and the path of eslintrc.json that we have downloaded before
+
+  ![VS code](https://media.giphy.com/media/5QRieElC7CGR0nTxKs/giphy.gif)
+
+In settings you need to enable eslint and you can choose to check also auto-fix on save!
+
+  ![VS code](https://media.giphy.com/media/1zljr6MIV2MPnti3NF/giphy.gif)
+
+Now you are ready to write clean code! 💪🏻

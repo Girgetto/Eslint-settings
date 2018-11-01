@@ -2,7 +2,7 @@
     "extends": "airbnb-base",
     "rules": {
         "func-names": "off",
-        "no-alert": "off",
+        "no-alert": "warn",
         "no-console": "warn",
         "no-plusplus": "off",
         "no-unused-vars": "warn",
