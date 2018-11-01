@@ -45,7 +45,7 @@ In eslint.option and in eslint.node_path you need to insert the correct director
 
 We are setting the ESLint extension in our VS code with the path of node_modules and the path of eslintrc.json that we have downloaded before
 
-  ![VS code](https://media.giphy.com/media/5QRieElC7CGR0nTxKs/giphy.gif)
+  ![VS code](https://media.giphy.com/media/1zljr6MIV2MPnti3NF/giphy.gif)
 
 In settings you need to enable eslint and you can choose to check also auto-fix on save!
 
