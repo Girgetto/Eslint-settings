@@ -11,6 +11,7 @@
         "key-spacing": "off",
         "max-len": "off",
         "no-undef": "off",
-        "no-param-reassign": "off"
-    }
+        "no-param-reassign": "off",
+        "camelcase": [1, {"properties": "always"}],
+        "import/order": ["warn", {"groups": ["index", "sibling", "parent", "internal", "external", "builtin"]}]    }
 }

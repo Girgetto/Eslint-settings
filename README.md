@@ -1,6 +1,6 @@
 # ESlint-settings ⚙️
 
-**What's ESlint ?⚠**
+**What's ESlint ⚠**
 
 ESLint is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines. There are code linters for most programming languages, and compilers sometimes incorporate linting into the compilation process. [website](https://eslint.org/)
 
@@ -45,7 +45,7 @@ In eslint.option and in eslint.node_path you need to insert the correct director
 
 We are setting the ESLint extension in our VS code with the path of node_modules and the path of eslintrc.json that we have downloaded before
 
-  ![VS code](https://media.giphy.com/media/1r91ZwHn2WQC0SQ9cr/giphy.gif)
+  ![VS code](https://media.giphy.com/media/5QRieElC7CGR0nTxKs/giphy.gif)
 
 In settings you need to enable eslint and you can choose to check also auto-fix on save!
 
