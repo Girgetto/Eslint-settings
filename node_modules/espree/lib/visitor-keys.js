@@ -87,7 +87,7 @@ module.exports = {
     ObjectPattern: ["properties"],
     Program: ["body"],
     Property: ["key", "value"],
-    RestElement: [ "argument" ],
+    RestElement: ["argument"],
     ReturnStatement: ["argument"],
     SequenceExpression: ["expressions"],
     SpreadElement: ["argument"],
